@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonalvesilva" alt="jonalvesilva" /> 
+
 <h1 align="center">👋 Olá, Eu sou Jonathan Silva</h1>
 <h3 align="center">Desenvolvedor Full-Stack Typescript disponível para novas oportunidades</h3>
 <br>

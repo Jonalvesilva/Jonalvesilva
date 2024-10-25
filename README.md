@@ -31,7 +31,7 @@
 <div>
 <br>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonalvesilva&layout=compact&langs_count=7&theme=react"/>
-<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonalvesilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 <br>	

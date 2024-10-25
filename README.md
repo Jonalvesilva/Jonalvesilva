@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/CSS-111212?logo=css3&logoColor=blue" alt="css" height="30" width="80"/><span>&nbsp&nbsp</span>
 <img src="https://img.shields.io/badge/JAVASCRIPT-111212?logo=javascript" alt="javascript" height="30" width="140"/><span>&nbsp&nbsp</span>
 <img src="https://img.shields.io/badge/TYPESCRIPT-111212?logo=typescript" alt="typescript" height="30" width="140"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/REACT-111212?logo=react" alt="react" height="30" width="90"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/BOOTSTRAP-111212?logo=bootstrap" alt="bootstrap" height="30" width="140"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/TAILWIND-111212?logo=tailwindcss" alt="tailwind" height="30" width="140"/><span>&nbsp&nbsp</span>	
+<img src="https://img.shields.io/badge/REACT-111212?logo=react" alt="react" height="30" width="90"/><span>&nbsp&nbsp</span>	
 </p>
+<p><img src="https://img.shields.io/badge/BOOTSTRAP-111212?logo=bootstrap" alt="bootstrap" height="30" width="140"/><span>&nbsp&nbsp</span>
+<img src="https://img.shields.io/badge/TAILWIND-111212?logo=tailwindcss" alt="tailwind" height="30" width="140"/><span>&nbsp&nbsp</span></p>
 <h3>Back-end:</h3>
 <p>
 <img src="https://img.shields.io/badge/NODE-111212?logo=nodedotjs" alt="node" height="30" width="90" /><span>&nbsp&nbsp</span>

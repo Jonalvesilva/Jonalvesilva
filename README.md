@@ -9,23 +9,26 @@
 <p align="justify">Pós-graduado em Desenvolvimento Full Stack, com experiência em criar aplicações web interativas e escaláveis. Forte interesse em desenvolvimento front-end e back-end, além de habilidades em otimização de código e criação de designs responsivos. Estou sempre em busca de novos desafios e oportunidades para aprender e colaborar em projetos inovadores. Vamos nos conectar! </p>
 <h2>💻 Stacks</h2>
 <h3>Front-end:</h3>
-<p>
-<img src="https://img.shields.io/badge/HTML-111212?logo=html5" alt="html" height="30" width="80" /><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/CSS-111212?logo=css3&logoColor=blue" alt="css" height="30" width="80"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/JAVASCRIPT-111212?logo=javascript" alt="javascript" height="30" width="140"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/TYPESCRIPT-111212?logo=typescript" alt="typescript" height="30" width="140"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/REACT-111212?logo=react" alt="react" height="30" width="90"/><span>&nbsp&nbsp</span>	
-</p>
-<p><img src="https://img.shields.io/badge/BOOTSTRAP-111212?logo=bootstrap" alt="bootstrap" height="30" width="140"/><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/TAILWIND-111212?logo=tailwindcss" alt="tailwind" height="30" width="140"/><span>&nbsp&nbsp</span></p>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&size=20)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
 <h3>Back-end:</h3>
-<p>
-<img src="https://img.shields.io/badge/NODE-111212?logo=nodedotjs" alt="node" height="30" width="90" /><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/EXPRESS-111212?logo=express" alt="express" height="30" width="120" /><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/POSTGRESQL-111212?logo=postgresql" alt="postgresql" height="30" width="140" /><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/MYSQL-111212?logo=mysql" alt="mysql" height="30" width="100" /><span>&nbsp&nbsp</span>
-<img src="https://img.shields.io/badge/MONGODB-111212?logo=mongodb" alt="mongo" height="30" width="120" /><span>&nbsp&nbsp</span>
-</p>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
 <br>
 <h2>🚀 Status Github</h2>
 <div>
